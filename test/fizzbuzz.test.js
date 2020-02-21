@@ -25,4 +25,5 @@ describe('Fizzbuzz test', function() {
     expect(output).to.be.a("string");
     expect(output).to.be.equal("fizzbuzz");
   });
-});
+}); 
+
